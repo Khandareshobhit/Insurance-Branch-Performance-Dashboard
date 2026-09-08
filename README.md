@@ -27,13 +27,11 @@ The project aims to bring the data together using **Power BI, Tableau, and Excel
 
 ## Project Objectives
 
-* **Monitor branch performance** by tracking targets, revenue, invoice sales, and achievement percentage.
-* **Analyze business performance** across New, Cross-Sell, and Renewal activities.
-* **Track sales activities** such as meetings, opportunities, and invoices.
-* **Measure opportunity performance** using open/closed opportunities and conversion ratios.
-* **Evaluate account executive performance** and identify top performers.
-* **Analyze opportunity stages and expected revenue** to understand the sales pipeline.
-* **Provide interactive dashboards** to make performance analysis easier and support data-driven decisions.
+* Develop an **interactive dashboard** to provide a centralized view of branch and sales performance.
+* Enable **performance comparison** across branches and Account Executives.
+* Analyze the **sales pipeline** using opportunity stages and expected revenue.
+* Identify **business trends and performance gaps** to support better decision-making.
+* Provide **clear and actionable insights** through KPIs, charts, and interactive filters.
 
 ## Process
 
@@ -43,16 +41,9 @@ The project aims to bring the data together using **Power BI, Tableau, and Excel
 * **Dashboard Development:** Built interactive dashboards using **Excel, Power BI, and Tableau**.
 * **Insights:** Identified performance gaps, top performers, and key sales opportunities.
 
-## Business Questions
+## Observations
 
-* What is the **total target vs actual revenue**?
-* Which branches are **performing above or below target**?
-* How is performance distributed across **New, Cross-Sell, and Renewal** business?
-* How many **meetings and opportunities** are being generated?
-* What is the **opportunity conversion rate**?
-* Which **account executives are top performers**?
-* Which **opportunity stages contribute the most expected revenue**?
-* Which areas have the **highest performance gaps**?
+
 
 
 
