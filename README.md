@@ -21,7 +21,7 @@ The project aims to bring the data together using **Power BI, Tableau, and Excel
 * Track **branch-wise target and revenue performance**.
 * Monitor **New, Cross-Sell, and Renewal** business.
 * Track **invoices, meetings, and opportunities**.
-* Measure **achievement and conversion rates**.
+* Measure **achievement**.
 * Compare **account executive performance**.
 * Identify **top performers and key opportunities**.
 
@@ -42,6 +42,44 @@ The project aims to bring the data together using **Power BI, Tableau, and Excel
 * **Insights:** Identified performance gaps, top performers, and key sales opportunities.
 
 ## Observations
+
+* **65% placed achievement** with ₹3.39 Cr placed revenue against the target.
+* **21% invoiced achievement** with ₹1.11 Cr invoiced revenue against the target.
+* **Renewal** exceeded its target, while **New Business** shows a significant performance gap.
+* **49 total opportunities** and **44 open opportunities** are currently tracked.
+* **Renewal contributes the highest revenue share at 55%**.
+
+## Suggestions
+
+* Focus on improving **New Business performance** to reduce the target gap.
+* Use the strong **Renewal performance** as a benchmark for other business areas.
+* Closely monitor **open opportunities** to improve conversion and revenue.
+* Review **account executive performance** regularly to identify areas for improvement.
+* Use the dashboard for **regular performance tracking and decision-making**.
+
+
+## PowerBI Dashboard
+
+<img width="1343" height="782" alt="Screenshot 2026-09-09 164915" src="https://github.com/user-attachments/assets/3ce45149-9cfa-4e91-bf83-d7658fc3a32b" />
+
+## Tableau Dashboard
+
+<img width="1603" height="901" alt="Screenshot 2026-09-09 164953" src="https://github.com/user-attachments/assets/272ef8e0-20a9-4959-8b83-e059897ecbfe" />
+
+## Excel Dashboard
+
+<img width="1036" height="612" alt="Screenshot 2026-09-09 165045" src="https://github.com/user-attachments/assets/f8cbcaf9-4dca-4de4-b22b-9dfa5eecd7d3" />
+
+## Conclusion
+
+## Conclusion
+
+The dashboard provides a clear overview of **branch sales performance, target achievement, revenue, opportunities, and sales activities**. It shows that **Renewal business is performing strongly**, while **New Business has a significant gap against its target**. These insights help management identify performance gaps, monitor sales activities, and make better data-driven decisions.
+
+
+
+
+
 
 
 
