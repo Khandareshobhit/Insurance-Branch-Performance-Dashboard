@@ -72,8 +72,6 @@ The project aims to bring the data together using **Power BI, Tableau, and Excel
 
 ## Conclusion
 
-## Conclusion
-
 The dashboard provides a clear overview of **branch sales performance, target achievement, revenue, opportunities, and sales activities**. It shows that **Renewal business is performing strongly**, while **New Business has a significant gap against its target**. These insights help management identify performance gaps, monitor sales activities, and make better data-driven decisions.
 
 
